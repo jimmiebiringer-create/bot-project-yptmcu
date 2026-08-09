@@ -1,0 +1,1 @@
+worker: python 26.py
