@@ -1,0 +1,7 @@
+PyGithub
+pytelegrambotapi
+playwright
+pillow
+requests
+yt_dlp
+google-generativeai
